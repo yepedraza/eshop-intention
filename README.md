@@ -1,6 +1,6 @@
 # Online shopping intention analysis
 
-From a dataset that consists of statistical characteristics of about 12,000 sessions on online sales websites, I carried out an analysis of the purchase intention that a person could have in a virtual way and how we could predict the behavior of users. This [dataset](https://archive.ics.uci.edu/ml/datasets/Online+Shoppers+Purchasing+Intention+Dataset) was created and hosted in the UCI Machine Learning Repository. With this project I seek to apply Mavhine Learning algorithms to perform data analysis and predict behaviors according to the analysis.
+From a dataset that consists of statistical characteristics of about 12,000 sessions on online sales websites, I carried out an analysis of the purchase intention that a person could have in a virtual way and how we could predict the behavior of users. This [dataset](https://archive.ics.uci.edu/ml/datasets/Online+Shoppers+Purchasing+Intention+Dataset) was created and hosted in the UCI Machine Learning Repository. With this project I seek to apply Machine Learning algorithms to perform data analysis and predict behaviors according to the analysis.
 
 ## Features
 
